@@ -1,4 +1,4 @@
 print("hii")
 for i in range(5,100):
     if i %2 ==0:
-        print(i.25252562562)
+        print(i)
